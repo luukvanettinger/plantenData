@@ -1,7 +1,7 @@
 {
   "users": [
     { "id": 1, "name": "Alocasia Odora", "herkomst": "Oost- en Zuidoost-Azië", "water": "2 keer per week", "foto": "https://luukvanettinger.github.io/planten/images/plant1.jpeg" },
-    { "id": 2, "name": "Post 2", "herkomst": "luuk@hotmail.com" },
+    { "id": 2, "name": "Nestvaren", "herkomst": "Afrika, Australië, Azië en Europa", "water": "2 keer per week", "foto": "https://luukvanettinger.github.io/planten/images/plant2.jpeg" },
     { "id": 3, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
     { "id": 4, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
     { "id": 5, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
