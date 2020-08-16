@@ -2,7 +2,11 @@
   "users": [
     { "id": 1, "name": "Post 1", "email": "luuk@hotmail.com" },
     { "id": 2, "name": "Post 2", "email": "luuk@hotmail.com" },
-    { "id": 3, "name": "Post 3", "email": "luuk@hotmail.com" }
+    { "id": 3, "name": "Post 3", "email": "luuk@hotmail.com" },
+    { "id": 4, "name": "Post 3", "email": "luuk@hotmail.com" },
+    { "id": 5, "name": "Post 3", "email": "luuk@hotmail.com" },
+    { "id": 6, "name": "Post 3", "email": "luuk@hotmail.com" },
+    { "id": 7, "name": "Post 3", "email": "luuk@hotmail.com" }
   ],
   "profile": {
     "name": "luukvanettinger"
