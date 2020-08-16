@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "name": "Alocasia Odora", "herkomst": "Oost- en Zuidoost-Azië" },
+    { "id": 1, "name": "Alocasia Odora", "herkomst": "Oost- en Zuidoost-Azië", "water": "2 keer per week" },
     { "id": 2, "name": "Post 2", "herkomst": "luuk@hotmail.com" },
     { "id": 3, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
     { "id": 4, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
