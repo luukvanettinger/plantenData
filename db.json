@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "name": "Erwtenplant", "latinname": "Senecio Rowleyanus", "herkomst": "Oost- en Zuidoost-Azië", "water": "1 keer per maand", "foto": "https://luukvanettinger.github.io/planten/images/plant1.jpg" },
+    { "id": 1, "name": "Erwtenplant", "latinname": "Senecio Rowleyanus", "herkomst": "Oost- en Zuidoost-Azië", "water": "1 keer per maand", "foto": "https://luukvanettinger.github.io/planten/images/erwtenplant.jpg" },
     { "id": 2, "name": "Olifantsoor", "latinname": "Alocasia Odora", "herkomst": "Oost- en Zuidoost-Azië", "water": "2 keer per week", "foto": "https://luukvanettinger.github.io/planten/images/plant5.jpg" },
     { "id": 3, "name": "Nestvaren", "herkomst": "x", "water": "x", "foto": "x" },
     { "id": 4, "name": "Venushaar", "herkomst": "x" },
