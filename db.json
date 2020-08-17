@@ -2,11 +2,16 @@
   "users": [
     { "id": 1, "name": "Alocasia Odora", "herkomst": "Oost- en Zuidoost-Azië", "water": "2 keer per week", "foto": "https://luukvanettinger.github.io/planten/images/plant1.jpeg" },
     { "id": 2, "name": "Nestvaren", "herkomst": "Afrika, Australië, Azië en Europa", "water": "1 keer per 2 weken", "foto": "https://luukvanettinger.github.io/planten/images/plant2.jpeg" },
-    { "id": 3, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
-    { "id": 4, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
-    { "id": 5, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
-    { "id": 6, "name": "Post 3", "herkomst": "luuk@hotmail.com" },
-    { "id": 7, "name": "Post 3", "herkomst": "luuk@hotmail.com" }
+    { "id": 3, "name": "Venushaar", "herkomst": "x", "water": "x", "foto": "x" },
+    { "id": 4, "name": "x", "herkomst": "x" },
+    { "id": 5, "name": "x", "herkomst": "x" },
+    { "id": 6, "name": "x", "herkomst": "x" },
+    { "id": 7, "name": "x", "herkomst": "x" },
+    { "id": 8, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
+    { "id": 9, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
+    { "id": 10, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
+    { "id": 11, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
+    { "id": 12, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
   ],
   "profile": {
     "name": "luukvanettinger"
