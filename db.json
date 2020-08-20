@@ -5,7 +5,7 @@
     { "id": 3, "name": "Nestvaren", "herkomst": "x", "water": "x", "foto": "x" },
     { "id": 4, "name": "Venushaar", "herkomst": "x" },
     { "id": 5, "name": "Pannenkoekenplant", "herkomst": "x", "water": "x", "foto": "https://luukvanettinger.github.io/planten/images/pannenkoekenplant2.jpg" },
-    { "id": 6, "name": "String of Hearts", "herkomst": "x", "water": "x", "foto": "https://luukvanettinger.github.io/planten/images/stringofhearts.jpg },
+    { "id": 6, "name": "String of Hearts", "herkomst": "x", "water": "x", "foto": "https://luukvanettinger.github.io/planten/images/stringofhearts.jpg" },
     { "id": 7, "name": "x", "herkomst": "x" },
     { "id": 8, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
     { "id": 9, "name": "x", "herkomst": "x", "water": "x", "foto": "x" },
