@@ -12,7 +12,7 @@
     { "id": 10, "name": "Olifantspoot", "latinname": "Beaucarnea Recurvata", "herkomst": "Mexico", "water": "1 keer per week", "datum": "20/08/2020", "foto": "https://luukvanettinger.github.io/planten/images/olifantspoot2.jpg", "foto2": "https://luukvanettinger.github.io/planten/imageges/", "tekst": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print,graphic or web designs"  },
     { "id": 11, "name": "Yucca", "latinname": "Yucca Gigantea", "herkomst": "Mexico en Midden-Amerika", "water": "1 keer per maand", "datum": "20/08/2020", "foto": "https://luukvanettinger.github.io/planten/images/yucca.jpg", "foto2": "https://luukvanettinger.github.io/planten/imageges/", "tekst": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print,graphic or web designs"  },
   ],
-  "profile": {
+  "profile": 
     "name": "luukvanettinger"
   }
 }
